@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The letter sent by Robert Rych to William Bayly and Mary Fisher, called his wife, and to the rest of the Quakers, hearers and followers</title>
+            <author>Rich, Robert, d. 1679.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57216</idno><idno type="EEBO-CITATION">13574870</idno>
+  <idno type="VID">100418</idno>
+  <idno type="EEBO-PROQUEST">2240900090</idno>
+  
+            <idno type="STC">Wing R1360</idno>
+            <idno type="STC">ESTC R11879</idno>
+            <idno type="OCLC">13574870</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 799:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The letter sent by Robert Rych to William Bayly and Mary Fisher, called his wife, and to the rest of the Quakers, hearers and followers</title>
+                  <author>Rich, Robert, d. 1679.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lowndes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cover title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100418:1"/>
+            <pb facs="tcp:100418:1"/>
+            <p>The LETTER SENT BY Robert Rych TO WILLIAM BAYLY and MARY FISHER, called his Wife; <hi>AND</hi> To the rest of the <hi>QƲAKERS</hi> HEARERS and FOLLOWERS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Lowndes</hi> at the <hi>White-Lyon</hi> in <hi>Duck-Lane.</hi> MDCLXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100418:2"/>
+            <pb n="1" facs="tcp:100418:2"/>
+            <opener>
+               <salute>To <hi>William Bayly</hi> and <hi>Mary Fisher,</hi> called thy Wife, and to the rest of your Hearers and Followers, that so much judged and condemned <hi>Robert Rych,</hi> in your general Assembly held <hi>June 4. 1668.</hi>
+               </salute>
+            </opener>
+            <p>HErewith I present you the Receipt given under the hand of <hi>John Bolton, Amos Stoddard</hi> and <hi>Gerard Roberts,</hi> for the 30 <hi>l.</hi> received by them, which Receipt is ex<g ref="char:EOLhyphen"/>prest in these words, viz. <hi>Received the</hi> 9th <hi>of the ele<g ref="char:EOLhyphen"/>venth Month called</hi> January, 1667. <hi>of</hi> John Reynes <hi>of</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>the Sum of</hi> 30 l. <hi>by the order and appointment of</hi> Robert Rych <hi>of</hi> Barbadoes <hi>Senior, which he ordered to be disposed to the Poor amongst Us. We say received by us</hi> John Bolton, Amos Stoddard, Gerard Roberts. that thou <hi>William Bayly</hi> maist see and remember with what boldness and confidence you did de<g ref="char:EOLhyphen"/>fend a most notorious and evident falshood, affirming, with others, in the face of a great Congregation, That the money was not received by you, nor any others, whom you owned for <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> for that they all denied both me and my gift; notwith<g ref="char:EOLhyphen"/>standing I told thee the names of those persons that received the money, whom thou ownest for good friends, yet still thou didst aver, that thou wert sure that they never received any money, as from me to distribute amongst them, and if I had any such Receipt, it was counterfeit and forged; adding, that thou hadst spoken with those friends since my Letter was out in print, a little before thou leftest <hi>England,</hi> and wert sure (as thou saidst) that they had not received it, neither would; and yet it doth
+<pb n="2" facs="tcp:100418:3"/>appear, by the Receipt, to be received the 9th of <hi>January,</hi> which was more then two Months before; which confident assertion of thine, was also seconded with this solemn declaration, <hi>viz.</hi> That thou wouldst disown all such, whosoever they were, that should receive from me, to such an end; forasmuch as long since I had been denied amongst you. But what evil have I done in this thing? For were it not much more reasonable, that they whom thou judgest should witness against thee, and disown thee, as an enemy to Innocency, to Charity, and to the Poor amongst you; to see what Spirit acts thee herein, and first learn to judge thy self before thou condemnest the Innocent. Now as touching the gift it self, although thy Wife did much reproach me, say<g ref="char:EOLhyphen"/>ing, That I had blown a Trumpet, in that I had printed my Letter, and had therein called <hi>Gyles Calvert</hi>'s Wife Whore; and also <hi>Thomas Rouse</hi> the elder, said, he had known me do many mad acts, yet none so foolish as this, to give away so much money so vainly, <hi>&amp;c.</hi> and divers others of your Proselytes with the like or worse imputations; which made me to cry out, saying, <hi>That many good Works I had done-amongst you, for which of them was it that you did stone me.</hi> Yet all this I leave to the witness of God, to judge between you and me in these matters. And though ignorance may have so far blinded your judgments, as to mistake my Charity, yet why your rash presumption or en<g ref="char:EOLhyphen"/>mity should lead you so far, as to make Lies your refuge, I know no reason, unless because the Spirit of Truth is departed from you, and an evil Spirit from the Lord is come upon you. And as touching the Receipt of the money, by these persons, it is verily beleived by many of your own people, to whom I have shewed the Receipt, that the money is received by them, and the Receipt true and honest; which makes me to wonder what ground <hi>Thomas Hart</hi> had to say, he did beleive the money was received by friends, as he called them but also beleived that they were surprised therein; and how they came to be trapped into so great a snare, as to give their signal to a forgerie, as thou saist, I cannot imagine, but of this I am most certain, that it hath dis<g ref="char:EOLhyphen"/>covered a great deal of deceit and falshood, yea a bitter lying and persecuting Spirit to inhabit your Tents; which <hi>Ba<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ylonish</hi> Garment hath been long seen to lie hid amongst your Tribe called
+<pb n="3" facs="tcp:100418:3"/>the Ministry, the Teachers and Leaders of the <hi>Quakers,</hi> even such spiritual wickedness, which if practised amongst the <hi>Presbyterians, Independents,</hi> or others whom you disown, and can see nothing good and acceptable in them, they would abhor themselves therein; which you, as with a whores forehead, boldly maintain and defend; and the day is at hand, even at your very door, which win discover, preach and reveal, as on the house top, many and great abominations which yet lie hid a<g ref="char:EOLhyphen"/>mongst you, that so you may be judged according to your works done; in which all your smooth and gilded words of Light and Love will not hide you, neither yet your flourishing Profession and high esteem you have of your selves, and the low esteem you have of others, will not cover you from being seen the golden head of that Image whereof others are the iron, lead, and clay, yea, the very name in which you have Prophesied and Prayed, when innocent, and in which you have cast out Divels and wrought wonders, shall now reject you, saying, <hi>Depart from me, &amp;c.</hi> Indeed I have long since seen abomination that maketh desolate, stand amongst the <hi>Quakers,</hi> ever since that time that <hi>G. F.</hi> did judge <hi>J. N.</hi> and invited his friends so to do, without shewing the least ground or reason of his censure, even as thou thy-self hast lately done in a printed paper against <hi>J. P.</hi> Wherefore hear the Word of the Lord ye Rulers of <hi>Sodom</hi> and People of <hi>Gomo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rah,</hi> 'tis this Spirit that hath encompassed your <hi>Jerusalem</hi> about as with Armies, and is now in bondage with her children, by which we know that the destruction thereof draweth nigh. Finally, 'tis this Spirit of Wickedness in the form of Righteousness that hath already torn the crown from off your heads, and discovered your secret parts, so that the scab of Contention and Strife is seen, which will never leave nor cease to divide you, till the name <hi>Quakers</hi> become a hiss and a scorn amongst the Nations; and you shall leave your name for a Curse unto my Chosen, saith the Lord God everlasting, who will slay thee and call his Servants by another name, it may be by <hi>Hallel<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jahs</hi> which ye have so much defamed; and you that for the vast numbers of your Tribes, have seemed to magnifie your selves in your increase of Children, <q>Woe be to you that give suck; for, behold, in one day loss of Children and
+<pb n="4" facs="tcp:100418:4"/>Widowhood shall come upon you, yea, a voice as in that of <hi>Ramah</hi> shall be heard amongst you, Lamenting your Children because they are not.</q> So I am clear from the blood of all men, in that I have not ceased, both by words and writing, to forewarn of the coming in or this Antichrist among the <hi>Quakers,</hi> who for more than ten years past have been that poor Ass speaking as with mans voice, reproving and withstanding the madness of this lying, wrathful bitter persecuting Spirit, as knowing right well when it entered; and you thereby come to reject the Lord, that he should not reign over you, but chuse to your selves a King, like other Sects and Nations, to judge and rule you, who was not the Unction, nor Anointed of the Lord, nor the Olive, Fig, nor Vine; that could rejoice, heal, nor bind you; but the Bramble, who is the King of the bottomless Pit, who shall so rend, tare, and devour, till one stone be not left upon another; which thing tell <hi>G. F.</hi> that <hi>F.</hi> your King. Alas! what are all your smooth words of Light, Love and Truth, whilst the spirit of Falshood, Envy, Bitterness is found in your Paths and-Practices? For what is it to speak with the tongue of Men and Angels, to have the gift of Prophecy, and to open all My<g ref="char:EOLhyphen"/>steries, to have all Faith that would remove Mountains; and yet have no Love or Charity? What will all this avail you? Are you better herein than <hi>Balam</hi> was? I tell you nay, for he knew as much as you do; nay more, for he knew not only the diffe<g ref="char:EOLhyphen"/>rence between the two Seeds of God, the beginning, progress, and end of it, yea and more he owned it, and would speak no<g ref="char:EOLhyphen"/>thing but Truth, and what the Lord put into his mouth that only would he say; but ye utter Lies and Falshood with great con<g ref="char:EOLhyphen"/>fidence, even what the Divel suggesteth: Thus having left your first Love, and having forsaken the Faith once delivered to the Saints, you are now like that evil Spirit cast out, running too and fro, walking thorough the dry places of your Elders Tradition, the footsteps of <hi>Amaleck,</hi> the first of the Nations, those whom ye call good old friends, seeking rest; but ye shall never find it so long as that <hi>Balack</hi> and <hi>Balam,</hi> that bitter Spirit, leads to Curse those whom God will surely Bless, and bring it over you; for ye must fall with <hi>Haman</hi> and <hi>Herod,</hi> be ensnared and taken in the same Pit of cruel Deceipt which you have digged
+<pb n="5" facs="tcp:100418:4"/>for your innocent Brethren, and herein for sometime will the Faith and Patience of the Saints be exercised. You greatly cry out and call upon others to fear and dread the Lord, yet you your selves are ignorant of that Lesson, that ye blindly run on to judge the Innocent and condemn the Truth; yea to smite the Apple of Gods Eye, and irreverently reach at the Signet on his Right-Hand, speaking evil of the things ye know not, which doth sufficiently demonstrate that ye are out of the pure Fear, that keepeth the heart clean and clear from these abominations: For my part, although my spirit is oftentimes seazed with a pow<g ref="char:EOLhyphen"/>ful, sweet, and awful enjoyment of Gods presence, yet I am not afraid of him, for I have not received again the spirit of Bondage to fear, as when I was one of you, but the spirit of Peace and Love; in which I receive him as a Father, rejoycing at his re<g ref="char:EOLhyphen"/>proaches, and do not fear him as an enemy that would take an advantage against me; I do well know the difference between the Seed of the Serpent and the free Leadings of Grace, as what it is to act towards God, for fear of his Wrath, Plagues and Judgements, which thou threatenest my death-bed withal; and what it is to do the Will of my Father, as my Meat and Drink; and long since I have known the difference between the first and second Covenant, betwixt those that think they can keep themselves in the Light and Love of God, as <hi>Peter</hi> did presume, but fell notoriously, and those that feel the Lord their Shepherd, and depend upon him for their daily sustenance, who rightly see their own weakness, and deny themselves as not being able to watch one hour, neither preserve themselves one minute in the love and favour of God, these being born again of the innocent seed and Love, and that abiding in them preserveth them from sin, and falling away; also I have known a dispensa<g ref="char:EOLhyphen"/>tion which indeed is glorious; but there is a state of justifi<g ref="char:EOLhyphen"/>cation, which exceeds in glory: Under the former is compre<g ref="char:EOLhyphen"/>hended Mount <hi>Sinai,</hi> at the foot of which I have seen the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> and their Leaders, standing with <hi>Moses</hi> and <hi>Israel,</hi> after the flesh, filled with fear and trembling from the presence of the Lord; which was a glorious administration: But the latter shews forth Mount <hi>Zion</hi> with its Inhabitants, even the whole number of the 14000, those faithful chosen and sealed Ones,
+<pb n="6" facs="tcp:100418:5"/>who stand before the Lord in his presence rejoycing, and without fear singing the Song of <hi>Moses</hi> and the Lamb, who witness full redemption by his Blood, Life and Spirit, out of Kindreds, Na<g ref="char:EOLhyphen"/>tions, Tongues and People, Children that cannot lye, neither falsly accuse and persecute the Innocent; in the first the Heirs differ nothing from Servants, though Lord of all, whilst they lie under the hard impositions of Tutors and Governours, such as thou thy self art, which enjoyn to dread and fear the Lord, to watch and keep to the Light, a life which your selves are out of, which made you so angry with me for saying the Lord was my Shepherd and Keeper. You are those that bind heavy burdens upon others, which in the least you will not bear your selves; nor will you yet deny your selves, that ye may enter the King<g ref="char:EOLhyphen"/>dom of Grace, neither will you suffer others that would to enter, who are poor and naked, hungry and thirsty, without money or desert; but the second Covenant speaketh otherwise, being established upon better promises, and having a more sure foundation than mans self-righteousness, to wit, the eternal word of Faith and Love shed abroad in our hearts, the seal of our Sonship, having Christ Jesus in us, our joy, our crown and glory, even that full assurance of that perfect Love which casteth out fear, and those that are here will need no other tutor and teacher save Love only, and have past from the voice of the Trumpet and sound of words under which ye are held, whether that of the letters teaching, or that of mans preaching; Let <hi>Sinai</hi> therefore quake, and the Earth be moved; let the Moun<g ref="char:EOLhyphen"/>tains melt at his presence, yet we will not fear, for God is in the midst of us, as a King and a mighty man of arms, that teacheth our hands to war and our fingers to fight, the terrour of whose presence is our consolation; let the hypocrites in <hi>Sion</hi> fear and be afraid, we are not come to the Mountain that might not be touched, where horrour, fear, and trembling is felt, but to the Mountain of Gods Love and free Grace, the New <hi>Jerusalem</hi> and City of joy, peace, and rest, whose Walls are Salvation, and whose Gates are made of Praises and <hi>Hallelujahs,</hi> yea to God the Judge of all, and to the spirits of just men made perfect; this I see clearly to be a state, a dispensation, a kingdom yet to come with thee, and with many who are so hotly contending
+<pb n="7" facs="tcp:100418:5"/>about the body of <hi>Moses,</hi> striving about some carnal fleshly appearance, some bodily exercise or outward observation which profiteth not; and whilst you are busied about these things, the vail is still over your hearts, and the great and weigh<g ref="char:EOLhyphen"/>ty matters of the Law neglected; so that the power of Love that leads into unity and amity with God, in that which is good in all his Creations ye are strangers unto; and all your Wor<g ref="char:EOLhyphen"/>ship and Service, all your Holiness, Knowledge and Righteousness, being void of Charity, what is it worth whilst your hands are so full of the blood of your innocent Brethren? It is no better than cutting off of a dogs neck, or the slaying of a man. By all this that hath been said, it is evident in what state you at present stand, and that there is much more attainable, which as yet you are ignorant of; for there are three states or stages by which God doth lead his people into rest and peace, besides the state of the Heathen that know not God, notwithstanding he is in them, lives, moves, and is their Being; to wit, <hi>Sinai</hi> and the Law, <hi>Golgotha</hi> and the Cross, <hi>Jerusalem</hi> and the Crown; in the first you have been and are still exercised, under dread and horrour, being bound to strict observations, thereby working out your Salva<g ref="char:EOLhyphen"/>tion with fear and trembling, all which the Son of man fulfilled in the daies of his flesh, being born under the Law, and having learned obedience by the things he suffered; and here you stand with him to your fleshly testimony; the seco<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is a state of death, which as yet you know little of, not having learned to to deny and condemn your selves, nor yet to cease from all your own works as he did from his, read <hi>Mark</hi> 10. and 17. <hi>John</hi> 5. and 30. <hi>Heb.</hi> 5.1, 2. to be crucified with Christ and to dye with the Lord; not only to put off the body of sin, and to account your own righteousness as filthy and menstruous, but even the innocency and righteousness of the Son, a Seed of the Promise must be nailed to the Cross and offered up; which middle state may be truly called Purgatory or <hi>Limbo Patrum,</hi> through which all that attain blessedness must needs pass, that so they may re<g ref="char:EOLhyphen"/>ceive the better resurrection, read <hi>Gen.</hi> 22, 16. this death or purgation but few witness among you, who while you exalt your selves in your carnal priviledges, and the blamelessness of your legal righteousnes, cannot resign unto death, and count all your
+<pb n="8" facs="tcp:100418:6"/>righteousness as loss and dung in comparison of free Grace, and the leading thereof, neither have I seen many besides <hi>J. N. J. P.</hi> who by their fellowship with Christ in his death, have denied and made themselves of no reputation, that so they might have their part in the best resurrection, being freed from all that shameful reproach wherein you have buryed them, in their obedience to the Father of Spirits, to which he will give such a name, mark, better than that of Sons and Daughters: The third and most glorious state is to be risen with Christ, and to sit down in the New <hi>Jerusalem,</hi> in the heavenly places with Christ Jesus, which is a Kingdom which cannot be shaken, a new Heaven which remains when the old passeth away, a fixt and sure habi<g ref="char:EOLhyphen"/>tation whose Inhabitants are ever singing praises, and drinking new wine in the Fathers Kingdom, the heirs and injoyers where<g ref="char:EOLhyphen"/>of ye are most bitter enemies to, calling them Ranters, Wine<g ref="char:EOLhyphen"/>bibbers and gluttonous persons, where all things are passed away, yea the Elders Traditions, <hi>&amp;c.</hi> and all things are beauty<g ref="char:EOLhyphen"/>fied with Spirits, Light and Leading, and nothing represented in the oldness of the letter, nor do such follow old good friends, as ye call them, but the Light only, where all tears are wiped away from our eyes, we shut not our gates at all by day, fearing no surprisal, nor have we any night as the Prophets had, for the Lord God is risen in us as a shield and a Sun that no more goeth down, for Christ being once dead and risen again dies no more, but leads captivity captive, by giving up all to the free Grace of the Father, where Death and Hell is swallowed up in Victory, that God the eternal Principle of Love may be all in all; go and learn what this meaneth. Had you been baptized with the Love that thinks no ill, you would not have so much condemned me for an innocent word, for calling one of my friends by way of falute Raschal, at which he took no offence, and why should eyes be evil in this thing, it being a word I use to sucking Children, and am not convinced of the least evil therein; may not all men now see you that evil Generation that makes a man an offender for a word, and when you had for a long time judged and condemned me as one guilty of all manner of evil in general, yet proving no one in particular; accusing me indeed as a proud person, a wine-bibber, a friend of publick
+<pb n="9" facs="tcp:100418:6"/>sinners, wherein the witness of God did not condemn me, and therefore said, that it was a small matter for me to be condemned by man in those things wherein I was justified by God; thus you having called the good man of the house, or the Leadings of the Spirit, <hi>Belzebub,</hi> it matters not what you call them of his houshold; which made me cry out amongst you all, saying, Judge your selves, who so easily can see and spy a more in ano<g ref="char:EOLhyphen"/>thers eye, but not the beam in your own; this counsel ye also rejected, crying out against it as a deceit and a lye, which so came to pass that the Scriptures might be fulfilled upon you, which saith, <hi>The time shall come that they will not endure sound Doctrine.</hi> And, why were you so angry with me, for saying Man doth not live by words only, but by the words of Grace and Love shed abroad in our hearts, the bread of Life which sustains the Soul in peace and rest; this also ye called deceit, and denyed my voice therein; after all which I called you Friends, at which likewise you were exceeding wrath, crying out against me saying I lyed, and asked me, how I could call you Friends? to which I answered, That in truth I had unity with those that could love their enemies, as with him that called <hi>Judas</hi> Friend; thus I having returned you those things as your own money in<g ref="char:EOLhyphen"/>to your own sacks, that so you may see and know what manner of Spirit it is that leads you herein; and till I hear of thy, and your publick repentance, as you have publickly appeared against the Truth and innocent defenders thereof, I shall esteem you no better than <hi>Judas,</hi> or Infidels and Heathens, who have denyed the Truth and Faith once delivered to the Saints, which to main<g ref="char:EOLhyphen"/>tain, some have hazzarded the loss of all things, and suffered great shame and reproach amongst you; but, blessed be God, that which ye indeed intended for evil, that hath the Lord my God turned for good, for which my soul doth bless and mag<g ref="char:EOLhyphen"/>nifie his Name, whilst I am, and when I am no more,</p>
+            <closer>
+               <signed>Robert Rych.</signed>
+            </closer>
+            <postscript>
+               <p>For
+<list>
+                     <item>G. F.</item>
+                     <item>J. N.</item>
+                     <item>J. P.</item>
+                  </list> read
+<list>
+                     <item>George Fox.</item>
+                     <item>James Nailor.</item>
+                     <item>John Parrot.</item>
+                  </list>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:100418:7"/>
+            <head>POSTCRIPT.</head>
+            <p>I Am told by some of your People, to whom I have shewed the Receipt, that the 30 <hi>l.</hi> was received by you from me, but it is again returned; thou saidst it was never received at all, others say, if it be not re<g ref="char:EOLhyphen"/>turned, it shall be: Thus is <hi>Babel</hi> built a<g ref="char:EOLhyphen"/>mongst you, and the City of <hi>Quakers</hi> be<g ref="char:EOLhyphen"/>come Confusion. For my part, if it be not received, kept, and distributed amongst the poor of your People, by the same Spirit of Loving-Kindness I gave it, and that you think good to return it, I shall not refnse to receive it again, and not doubt of finding those more worthy than your selves, though in the High-ways and Hedges, scracht, torn, and cast out by you, that will receive the same, and not reproachfully despise me for my love, as you have done.</p>
+            <closer>
+               <signed>R. R.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
